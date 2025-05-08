@@ -33,7 +33,8 @@
     <!-- Resume Container -->
     <div class="max-w-3xl mx-auto bg-gray-800 p-8 rounded-lg shadow-lg">
         <h1 class="text-4xl font-bold text-center mb-4">Evermore Harmony Mwase</h1>
-        <p class="text-center text-gray-400">IT Support Technician | Software & Hardware Specialist</p>
+        <p class="text-center text-gray-400">Computer Engineer | Freelancer
+        </p>
 
         <hr class="my-6 border-gray-600">
 
@@ -49,19 +50,19 @@
         <!-- Work Experience -->
         <h2 class="text-2xl font-bold mb-3">Work Experience</h2>
         <div class="mb-4">
-            <h3 class="text-xl font-semibold">IT Support Technician - PixelFaerie</h3>
-            <p class="text-gray-400">August 2024 - Present</p>
-            <p>Providing IT support, troubleshooting hardware/software issues, and ensuring smooth operations.</p>
+            <h3 class="text-xl font-semibold">IT Support Technician - PixelFaerie - <i>South Africa, Cape Town</i> </h3>
+            <p class="text-gray-400">August 2024 - April 2025</p>
+            <p>Providing IT support (Helpdesk), troubleshooting hardware/software issues, and ensuring smooth operations.</p>
         </div>
 
         <div class="mb-4">
-            <h3 class="text-xl font-semibold">Desktop Publisher - PixelFaerie</h3>
+            <h3 class="text-xl font-semibold">Desktop Publisher - PixelFaerie - <i>South Africa, Cape Town</i></h3>
             <p class="text-gray-400">March 2024 - July 2024</p>
-            <p>Creating high-quality PowerPoint slides for clients.</p>
+            <p>Graphical designer : Creating high-quality PowerPoint slides for clients.</p>
         </div>
 
         <div class="mb-4">
-            <h3 class="text-xl font-semibold">IT Specialist - Audit Consult</h3>
+            <h3 class="text-xl font-semibold">IT Specialist - Audit Consult - <i>Malawi, Lilongwe</i></h3>
             <p class="text-gray-400">June 2021 - December 2023</p>
             <p>Developed web applications, provided IT support, and managed network infrastructure.</p>
         </div>
@@ -71,8 +72,8 @@
         <!-- Education -->
         <h2 class="text-2xl font-bold mb-3">Education</h2>
         <div class="mb-4">
-            <h3 class="text-xl font-semibold">Bachelor's of Science in Computer Engineering</h3>
-            <p class="text-gray-400">University of Livingstonia - 2018 to 2022</p>
+            <h3 class="text-xl font-semibold">Bachelor's of Science in Computer Engineering </h3>
+            <p class="text-gray-400">University of Livingstonia, Malawi - 2018 to 2023</p>
         </div>
 
         <hr class="my-6 border-gray-600">
