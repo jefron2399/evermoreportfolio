@@ -13,7 +13,7 @@
 </head>
 <body class="bg-gray-900 text-white">
     <header class="flex justify-between items-center p-6 bg-gray-800">
-        <h1 class="text-3xl font-bold">Welcome</h1>
+        {{-- <h1 class="text-3xl font-bold">Welcome</h1> --}}
         <nav>
             <a href="#about" class="mx-4 hover:text-gray-400">About</a>
             <a href="#skills" class="mx-4 hover:text-gray-400">Skills</a>
