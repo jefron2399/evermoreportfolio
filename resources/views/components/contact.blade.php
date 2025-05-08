@@ -15,7 +15,7 @@
     </div>
 
     <!-- Contact Form -->
-    <form action="{{ route('send.email') }}" method="POST" class="mt-6 max-w-lg mx-auto">
+    <form action="https://evermoreportfolio-production.up.railway.app/send-email" method="POST" class="mt-6 max-w-lg mx-auto">
         @csrf
         <input type="text" name="name" placeholder="Your Name" required class="w-full p-3 bg-gray-800 rounded-lg mb-4">
         <input type="email" name="email" placeholder="Your Email" required class="w-full p-3 bg-gray-800 rounded-lg mb-4">
