@@ -17,7 +17,7 @@
         {{-- <span class=""></span> --}}
 
         <h1 class="text-3xl font-bold hidden md:block">Evermore Mwase</h1>
-        <span class="w-15 h-15 flex items-center justify-center rounded-full bg-gray-700 text-white text-lg font-bold md:hidden">
+        <span class="w-12 h-12 flex items-center justify-center rounded-full bg-gray-700 text-white text-lg font-bold md:hidden">
             E
         </span>
         <nav>
