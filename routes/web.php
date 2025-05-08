@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Livewire\ResumeView;
 use Barryvdh\DomPDF\Facade\Pdf;
+use Illuminate\Http\Response;
 
 use App\Http\Controllers\ContactController;
 Route::get('/', function () {
@@ -17,5 +18,11 @@ Route::get('/resume', function () {
 })->name('resume.view');
 Route::get('/resume/download', function () {
     $pdf = Pdf::loadView('resume');
-    return $pdf->download('Evermore_Harmony_Mwase_Resume.pdf');
+
+    return response()->streamDownload(
+        fn () => print($pdf->output()),
+        'Evermore_Harmony_Mwase_Resume.pdf',
+        ['Content-Type' => 'application/pdf']
+    );
 })->name('resume.download');
+
