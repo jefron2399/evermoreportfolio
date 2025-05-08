@@ -32,7 +32,10 @@
 
     <!-- Resume Container -->
     <div class="max-w-3xl mx-auto bg-gray-800 p-8 rounded-lg shadow-lg">
-        <h1 class="text-4xl font-bold text-center mb-4">Evermore Harmony Mwase</h1>
+        {{-- <h1 class="text-4xl font-bold text-center mb-4">Evermore Harmony Mwase</h1> --}}
+
+        <h1 class="text-4xl font-bold text-center mb-4 hidden md:block">Evermore Mwase</h1>
+       <h4 class="text-3xl font-bold text-center mb-4 md:hidden">Evermore Mwase</h4>
         <p class="text-center text-gray-400">Computer Engineer | Freelancer
         </p>
 
