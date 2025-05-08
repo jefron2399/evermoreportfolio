@@ -12,8 +12,9 @@
             <b>developing interactive web applications</b> or <b>improving system performance</b>, 
             I focus on delivering work that is reliable and effective.
         </p>
-        <a href="{{ asset('files/Evermore-Harmony-Mwase.pdf') }}" download class="mt-6 px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-500">
-            📄 Download Resume
+        <a href="{{ route('resume.view') }}" class="mt-6 px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-500">
+            📄 View Resume
         </a>
+        
     </div>
 </section>
