@@ -83,16 +83,17 @@
         <ul class="list-disc pl-6">
             <li>Active Directory (3 years)</li>
             <li>Project Management & Coordination (4 years)</li>
-            <li>Programming Languages: PHP, JavaScript, React, Laravel, Python</li>
+            <li>Programming Languages: PHP, JavaScript, React, Laravel, Python, Java, C++, Python</li>
             <li>Microsoft Office & Windows Server (5 years)</li>
             <li>Computer Networking & IT Support (4 years)</li>
+            <li>Cloud Computing (4 years)</li>
         </ul>
 
         <hr class="my-6 border-gray-600">
 
         <!-- Links -->
         <h2 class="text-2xl font-bold mb-3">Links</h2>
-        <p><a href="https://www.youtube.com/channel/UCkgJ9J-3OZVa6CWNI5na_0A" class="text-blue-400">YouTube Channel</a></p>
+        <p><a href="https://evermoreportfolio-production.up.railway.app" class="text-blue-400">My Portfolio</a> ,<a href="https://www.youtube.com/channel/UCkgJ9J-3OZVa6CWNI5na_0A" class="text-blue-400">YouTube Channel</a></p>
     </div>
 
     <!-- Floating Download Button -->
