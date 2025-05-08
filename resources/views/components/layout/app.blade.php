@@ -18,7 +18,7 @@
 
         <h1 class="text-3xl font-bold hidden md:block">Evermore Mwase</h1>
         <span class="w-15 h-15 flex items-center justify-center rounded-full bg-gray-700 text-white text-lg font-bold md:hidden">
-            EM
+            E
         </span>
         <nav>
             <a href="#about" class="mx-4 hover:text-gray-400">About</a>
