@@ -13,7 +13,13 @@
 </head>
 <body class="bg-gray-900 text-white">
     <header class="flex justify-between items-center p-6 bg-gray-800">
-        {{-- <h1 class="text-3xl font-bold">Welcome</h1> --}}
+       
+        {{-- <span class=""></span> --}}
+
+        <h1 class="text-3xl font-bold hidden md:block">Evermore Mwase</h1>
+        <span class="w-15 h-15 flex items-center justify-center rounded-full bg-gray-700 text-white text-lg font-bold md:hidden">
+            EM
+        </span>
         <nav>
             <a href="#about" class="mx-4 hover:text-gray-400">About</a>
             <a href="#skills" class="mx-4 hover:text-gray-400">Skills</a>
