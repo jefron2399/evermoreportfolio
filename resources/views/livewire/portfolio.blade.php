@@ -11,7 +11,7 @@
             <div class="hero-meta"><span>Based in Cape Town, South Africa</span><span>Open to relocation</span><span>Available for global opportunities</span></div>
             <div class="fit-strip"><span>Best fit</span><strong>IT Support / Systems</strong><strong>Software Engineering</strong><strong>Applied ML / AI Development</strong></div>
         </div>
-        <div class="hero-visual"><div class="portrait-frame"><img src="{{ asset('images/profile.jpeg') }}" alt="Portrait of Evermore Mwase"></div><div class="availability-card"><span class="status-dot"></span><span>Available for the next challenge</span></div></div>
+        <div class="hero-visual"><div class="portrait-frame"><img src="{{ asset('images/background.jpg') }}" alt="Portrait of Evermore Mwase"></div><div class="availability-card"><span class="status-dot"></span><span>Available for the next challenge</span></div></div>
     </section>
 
     @include('components.about')
